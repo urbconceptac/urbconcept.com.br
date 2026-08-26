@@ -7,9 +7,9 @@ export const media = {
   lobao: {
     logo: "/logo-lobao-white.png",
     gallery: [
-      "/lb4.jpg", 
-      "/lb9.jpg", 
-      "/lb14.jpg", 
+      "/lb4.jpg",
+      "/lb9.jpg",
+      "/lb14.jpg",
       "/lb15.jpg"
     ],
   },
@@ -21,14 +21,14 @@ export const media = {
       "/tq4.jpg",
       "/tq7.jpg",
       "/tq-cartaz-a.jpg",
-      "/tq-cartaz-b.jpg",
+      "/tq-cartaz-b.jpg"
     ],
   },
   polpetteria: {
     logo: "/logo-polpetteria.png",
     gallery: [
-      "/rotulo-tapenades.jpg", 
-      "/polpetteria-vitrine.jpg", 
+      "/rotulo-tapenades.jpg",
+      "/polpetteria-vitrine.jpg",
       "/polpetteria-pote.jpg"
     ],
   },
@@ -37,7 +37,7 @@ export const media = {
     gallery: ["/logo-cruzeirense-color.png"],
     spots: [
       { label: "Spot — Julho / Semana 05", src: "/spot-cruzeirense-3.png" },
-      { label: "Spot — 8 do 8", src: "/spot-cruzeirense-3.png" },
+      { label: "Spot — 8 do 8", src: "/spot-cruzeirense-3.png" }
     ],
   },
   tqth: {
