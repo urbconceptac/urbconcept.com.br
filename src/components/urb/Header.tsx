@@ -30,15 +30,13 @@ export function Header() {
     >
       <div className="mx-auto flex h-16 max-w-[1200px] items-center justify-between px-6">
         <a href="#top" className="flex items-center">
-          <img
-            src={media.logo}
-            alt="Urb Concept"
-            width={80}
-            height={80}
-            className={`object-contain transition-all duration-300 ${
-              scrolled ? "h-9 w-9" : "h-[72px] w-[72px]"
-            }`}
-          />
+         <img 
+  src="/logo-urb.png" 
+  alt="Urb Concept" 
+  width="80" 
+  height="80" 
+  className="object-contain transition-all duration-300 h-[72px] w-[72px]" 
+/>
         </a>
 
 
